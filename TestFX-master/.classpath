@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="TestFX-master/subprojects/testfx-core/src/main/java"/>
+	<classpathentry kind="src" path="TestFX-master/subprojects/testfx-core/src/test/java"/>
+	<classpathentry kind="src" path="TestFX-master/subprojects/testfx-junit/src/main/java"/>
+	<classpathentry kind="src" path="TestFX-master/subprojects/testfx-junit/src/test/java"/>
+	<classpathentry kind="src" path="TestFX-master/subprojects/testfx-junit5/src/main/java"/>
+	<classpathentry kind="src" path="TestFX-master/subprojects/testfx-junit5/src/test/java"/>
+	<classpathentry kind="lib" path="TestFX-master/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

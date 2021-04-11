@@ -18,18 +18,7 @@ package org.testfx.assertions.api;
 
 import javafx.css.Styleable;
 import javafx.geometry.Dimension2D;
-import javafx.scene.Node;
-import javafx.scene.Parent;
-import javafx.scene.control.Button;
-import javafx.scene.control.ComboBox;
-import javafx.scene.control.Labeled;
-import javafx.scene.control.ListView;
-import javafx.scene.control.MenuItem;
-import javafx.scene.control.TableView;
-import javafx.scene.control.TextInputControl;
-import javafx.scene.paint.Color;
-import javafx.scene.text.Text;
-import javafx.scene.text.TextFlow;
+import javafx.scene.*;
 import javafx.stage.Window;
 
 /**

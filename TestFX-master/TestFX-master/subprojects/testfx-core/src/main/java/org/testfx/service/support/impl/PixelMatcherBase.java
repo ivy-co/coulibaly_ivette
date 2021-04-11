@@ -16,12 +16,10 @@
  */
 package org.testfx.service.support.impl;
 
-import javafx.scene.image.Image;
-import javafx.scene.image.WritableImage;
+import javafx.scene.image.*;
 import javafx.scene.paint.Color;
 
-import org.testfx.service.support.PixelMatcher;
-import org.testfx.service.support.PixelMatcherResult;
+import org.testfx.service.support.*;
 
 public abstract class PixelMatcherBase implements PixelMatcher {
 

@@ -19,10 +19,7 @@ package org.testfx.matcher.base;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
-import org.hamcrest.BaseMatcher;
-import org.hamcrest.Description;
-import org.hamcrest.Matcher;
-import org.hamcrest.TypeSafeMatcher;
+import org.hamcrest.*;
 
 public class GeneralMatchers {
 
